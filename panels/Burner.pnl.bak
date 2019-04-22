@@ -1,0 +1,489 @@
+V 14
+1
+LANG:10027 0 
+PANEL,-1 -1 1565 790 N "WF_HeadLine" 0
+E E E E E 1 -1 -1 0  90 70
+""0  1
+E E 3
+"CBRef" "1"
+"EClose" E
+"dpi" "96"
+0 0 0
+""
+DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+LAYER, 0 
+1
+LANG:10027 0 
+6 53
+"RECTANGLE19"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {0,181,0} E E
+ E E
+52 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 1.894303097345128 0 0.2041666666666667 -85.01493362831707 322.6350574712646 1 E 280 370 330 420
+6 54
+"RECTANGLE20"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {0,181,0} E E
+ E E
+53 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 3.599999999999997 0 0.2041666666666667 -377.9999999999991 327.7186302681994 1 E 280 370 330 420
+6 55
+"RECTANGLE21"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {0,181,0} E E
+ E E
+54 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 3.599999999999997 0 0.2041666666666667 -444.4878318584059 502.364463601533 1 E 280 370 330 420
+6 56
+"RECTANGLE22"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {0,181,0} E E
+ E E
+55 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 2.130888576263901 -1.478500294504921 0.1144715442610176 0.1690399916361313 98.78531819807341 931.0977495757356 1 E 280 370 330 420
+6 50
+"RECTANGLE16"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {255,248,17} E E
+ E E
+49 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 6.278541044227734 0 0.2041666666666667 -1603.185137515505 502.3644636015329 1 E 280 370 330 420
+6 51
+"RECTANGLE17"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {255,248,17} E E
+ E E
+50 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 1.894303097345128 0 0.2041666666666667 -412.8467920353966 317.5102969348661 1 E 280 370 330 420
+6 57
+"RECTANGLE23"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {255,248,17} E E
+ E E
+56 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 0.003960529400616966 1.030567360424803 -0.2041662204324569 0.0002322290117094667 416.1884418158415 237.9647158203835 1 E 280 370 330 420
+6 52
+"RECTANGLE18"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {0,181,0} E E
+ E E
+51 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 1.894303097345128 0 0.2041666666666667 -240.9391504817971 322.4076520073663 1 E 280 370 330 420
+14 1
+"statusBox"
+""
+1 0.7499999999998863 14.5263157894737 E E E 1 E 1 E N "_WindowText" E N {0,181,0} E E
+ E E
+0 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 35 MS Shell Dlg 2,-1,11,5,50,0,0,0,0,0
+0  -1.250000000000114 -1.999999999999972 1362.75 71
+3 "0s" 0 0 0 0 0 -1  E E E
+14 3
+"heatPowerCurBox"
+""
+1 1040 169.2236842105264 E E E 1 E 1 E N "_WindowText" E N {0,181,0} E E
+ E E
+2 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 35 MS Shell Dlg 2,-1,11,5,50,0,0,0,0,0
+0  1038 157.75 1341 210.75
+3 "0s" 0 0 0 0 0 -1  E E E
+14 5
+"curHeatPowerBox"
+""
+1 1040 239.5921052631579 E E E 1 E 1 E N "_WindowText" E N {0,181,0} E E
+ E E
+4 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 35 MS Shell Dlg 2,-1,11,5,50,0,0,0,0,0
+0  1038 227.75 1341 280.75
+3 "0s" 0 0 0 0 0 -1  E E E
+13 11
+"setLeadButt"
+""
+1 1090 304.75 E E E 1 E 1 E N "_ButtonText" E N "Yellow" E E
+ E E
+10 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 35 MS Shell Dlg 2,-1,21,5,50,0,0,0,0,0
+0  1038 297.75 1341 350.75
+
+T 
+1
+LANG:10027 44 Выбрать горелку ведущей
+E E E E
+13 12
+"startBurning"
+""
+1 1040 375.25 E E E 1 E 1 E N "_ButtonText" E N "_Button" E E
+ E E
+11 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 35 MS Shell Dlg 2,-1,21,5,50,0,0,0,0,0
+0  1038 368.25 1341 421.25
+
+T 
+1
+LANG:10027 29 Розжечь горелку
+E E E E
+13 13
+"stopButt"
+""
+1 1040 445.3125 E E E 1 E 1 E N "_ButtonText" E N "_Button" E E
+ E E
+12 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 35 MS Shell Dlg 2,-1,21,5,50,0,0,0,0,0
+0  1038 438.3125 1341 491.3125
+
+T 
+1
+LANG:10027 35 Остановить горелку
+E E E E
+13 14
+"PUSH_BUTTON1"
+""
+1 1040 514.75 E E E 1 E 1 E N "_ButtonText" E N "_Button" E E
+ E E
+13 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 35 MS Shell Dlg 2,-1,21,5,50,0,0,0,0,0
+0  1038 507.75 1341 560.75
+
+T 
+1
+LANG:10027 45 Проверить гермитичность
+E E E E
+29 19
+"modeSwitch"
+""
+1 1040 84.0625 E E E 1 E 1 E N "_3DText" E N "_3DFace" E E
+ E E
+20 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 35 MS Shell Dlg 2,-1,11,5,50,0,0,0,0,0
+0  1040 84.0625 1102 144.0625
+16 ToggleSwitch.ewo
+0
+E14 20
+"modeText"
+""
+1 1150 99.03618421052639 E E E 1 E 1 E N "_WindowText" E N {0,181,0} E E
+ E E
+21 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 35 MS Shell Dlg 2,-1,11,5,50,0,0,0,0,0
+0  1148 87.5625 1341 140.5625
+3 "0s" 0 0 0 0 0 -1  E E E
+1 60 3 "" 2
+0
+1 61 4 "" 2
+0
+1 62 5 "" 1
+0
+1 64 6 "" 2
+0
+1 65 7 "" 2
+0
+1 66 8 "" 2
+0
+6 47
+"RECTANGLE13"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {17,216,255} E E
+ E E
+46 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 7.802101769911498 0 0.2041666666666667 -2105.960176991147 118.8420589125545 1 E 280 370 330 420
+6 48
+"RECTANGLE14"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {17,216,255} E E
+ E E
+47 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 3.363030973451328 0 0.2041666666666667 -371.1719026548674 117.0113247569738 1 E 280 370 330 420
+6 49
+"RECTANGLE15"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {17,216,255} E E
+ E E
+48 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 2.284632123725563 2.467880343054381 -0.149822855439394 0.1386980164449521 154.3657804534892 -549.7717707162187 1 E 280 370 330 420
+6 58
+"RECTANGLE24"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {0,181,0} E E
+ E E
+57 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 0.003960529400616966 2.597387449247131 -0.2041662204324569 0.0005852977141800782 416.2609898120992 -397.485045943443 1 E 280 370 330 420
+6 59
+"RECTANGLE25"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {0,181,0} E E
+ E E
+58 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 0.003960529400616966 2.597387449247131 -0.2041662204324569 0.0005852977141800782 416.0629633420684 -621.7932006236736 1 E 280 370 330 420
+1 69 9 "" 1
+0
+6 71
+"RECTANGLE26"
+""
+1 280 370 E E E 1 E 1 E N "_Transparent" E N {255,248,17} E E
+ E E
+60 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E -1 1 3 2 1 E 0.003960529400616966 3.497111752289143 -0.2041662204324569 0.0007880424291109961 239.2491927476883 -576.2225694048649 1 E 280 370 330 420
+0
+LAYER, 1 
+1
+LANG:10027 0 
+0
+LAYER, 2 
+1
+LANG:10027 0 
+0
+LAYER, 3 
+1
+LANG:10027 0 
+0
+LAYER, 4 
+1
+LANG:10027 0 
+0
+LAYER, 5 
+1
+LANG:10027 0 
+0
+LAYER, 6 
+1
+LANG:10027 0 
+0
+LAYER, 7 
+1
+LANG:10027 0 
+0
+3 3 "Protection1" -1
+"layoutAlignment" "AlignNone"
+"" ""
+"Valve.pnl" 303 308.75 T 28 0.5575221238938052 0 0.5104166666666666 34.98119469026553 225.2524844348661
+0
+3 4 "Protection2" -1
+"layoutAlignment" "AlignNone"
+"" ""
+"Valve.pnl" 303 308.75 T 30 0.5575221238938052 0 0.5104166666666666 189.9811946902655 225.2524844348661
+0
+3 5 "GasReg" -1
+"layoutAlignment" "AlignNone"
+"" ""
+"RegValve.pnl" 561.8849557522124 263.25 T 31 0.5990209000188287 0 0.5159243295019159 202.9252356938264 236.8182171934868
+0
+3 6 "CrimpValve" -1
+"layoutAlignment" "AlignNone"
+"" ""
+"Valve.pnl" 303 308.75 T 35 0.009156340061443516 0.5522213580107629 -0.4969430084908325 0.004676261300369862 506.3696153786254 280.9840466937951
+0
+3 7 "IgniterValve" -1
+"layoutAlignment" "AlignNone"
+"" ""
+"Valve.pnl" 303 308.75 T 37 0.5575221238938052 0 0.5104166666666666 291.4413716814164 405.0024844348662
+0
+3 8 "GenerealProtectionValve" -1
+"layoutAlignment" "AlignNone"
+"" ""
+"Valve.pnl" 303 308.75 T 39 0.009156340061443516 0.5522213580107629 -0.4969430084908325 0.004676261300369862 506.3431501398678 58.61918792707624
+0
+3 9 "PANEL_REF1" -1
+"layoutAlignment" "AlignNone"
+"" ""
+"AirRegValve.pnl" 444.875 89.69768472032804 T 59 0.5995341614906832 0 0.5157378218849207 202.3425302657616 92.52076145421769
+0
+0

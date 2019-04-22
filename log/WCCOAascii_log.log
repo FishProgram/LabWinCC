@@ -1,0 +1,9 @@
+WCCOAascii   (0), 2019.04.18 20:09:04.535, SYS,  INFO,        1, Manager Start, PROJ, HitOnlyBoilerStation, V 3.15 - 3.15   platform Windows AMD64 linked at Jan 31 2019 19:30:43 (3914f9beaa1)
+WCCOAascii   (0), 2019.04.18 20:09:04.537, SYS,  INFO,        3, Trying to connect to (SYS: 0 Data -num 0 CONN: 1) @ DESKTOP-GKD9RUL:4897
+WCCOAascii   (0), 2019.04.18 20:09:04.539, SYS,  INFO,        4, Connected to (SYS: 0 Data -num 0 CONN: 1) @ DESKTOP-GKD9RUL (::1)
+WCCOAascii   (1), 2019.04.18 20:09:04.546, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCOAascii   (1), 2019.04.18 20:09:04.546, SYS,  INFO,        3, Trying to connect to (SYS: 1 Event -num 0 CONN: 1) @ DESKTOP-GKD9RUL:4998
+WCCOAascii   (1), 2019.04.18 20:09:04.547, SYS,  INFO,        4, Connected to (SYS: 1 Event -num 0 CONN: 1) @ DESKTOP-GKD9RUL (::1)
+WCCOAascii   (1), 2019.04.18 20:09:04.549, SYS,  INFO,      102, Waiting for user names/passwords
+WCCOAascii   (1), 2019.04.18 20:09:04.549, SYS,  INFO,      103, User names/passwords initialized
+WCCOAascii   (1), 2019.04.18 20:09:04.565, SYS,  INFO,        2, Manager Stop
